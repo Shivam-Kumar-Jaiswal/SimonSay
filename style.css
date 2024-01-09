@@ -1,0 +1,55 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    text-align: center;
+    background-color: navajowhite;
+}
+.btn{
+    border: 10px solid black;
+    width: 150px;
+    height:150px;
+    margin:0.6rem;
+    border-radius: 40px;
+
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+.red{
+    background-color:#d95980;
+}
+.green{
+    background-color:#63aac0;
+}
+.purple{
+    background-color: #819ff9;
+}
+.yellow{
+    background-color:#f99b45;
+    
+}
+.flashbtn{
+    background-color: white;
+}
+.userflash{
+    background-color: navajowhite;
+}
+.score{
+    
+    display: flex;
+    justify-content: center;
+    
+    /* justify-content: space-between; */
+}
+.h3{
+    margin-right:150px;
+}
+/* .h4{
+    margin-left: 25px;
+} */
+.bgColor{
+    background-color: red;
+}
